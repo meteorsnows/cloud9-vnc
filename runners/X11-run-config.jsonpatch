@@ -1,0 +1,12 @@
+[
+    {
+        "op": "add", 
+        "path": "/run/configs/json()/X11", 
+        "value": {
+            "command": "",
+            "debug": true,
+            "name": "X11",
+            "runner": "X11"
+        }
+    }
+]
